@@ -131,6 +131,7 @@ body {
   margin-bottom: 25px;
   background-color: black;
 }
+
 #article1left li {
   height: 40px;
   line-height: 40px;
@@ -146,7 +147,7 @@ body {
 	width: 150px;
 	height: 30px;
 	position: absolute;
-	right: 0px;
+	right: 30px;
 	bottom: 0px;
 }
 #rightbottombutton li {
@@ -157,6 +158,22 @@ body {
   width: 30px;
   line-height: 30px;
   text-align: center;
+}
+span {
+  width: 30px;
+  height: 450px;
+  line-height: 450px;
+  font-size: 30px;
+  background-color: white;
+  opacity: 0.3;
+}
+#spanL{
+  left: 300px;
+  position: absolute;
+}
+#spanR {
+  right: 0px;
+  position: absolute;
 }
 
 
